@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Angelic]]></title>
         <description><![CDATA[Angelic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/angelic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 05:24:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 06:11:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/angelic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc82820f-0990-46ce-9400-52c8e4107a18.jpg">]]></description>
+            <link>https://thegrid.ai/angelic/5f59edd8-a5f8-4fd1-8d39-59d1dfdc0692/index.html</link>
+            <guid isPermaLink="false">5f59edd8-a5f8-4fd1-8d39-59d1dfdc0692</guid>
+            <pubDate>Tue, 02 Feb 2016 06:11:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The 1st post...how amazing is that! </p>]]></description>
-            <link>undefined0efa906e-4ebe-49ff-90c6-5a78449cf9cb/index.html</link>
+            <link>https://thegrid.ai/angelic/0efa906e-4ebe-49ff-90c6-5a78449cf9cb/index.html</link>
             <guid isPermaLink="false">0efa906e-4ebe-49ff-90c6-5a78449cf9cb</guid>
             <pubDate>Tue, 02 Feb 2016 05:23:27 GMT</pubDate>
         </item>
